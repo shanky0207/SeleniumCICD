@@ -1,0 +1,12 @@
+[
+  {
+    "emailid": "seleniumtesting@practice.com",
+    "password": "Selenium@1234",
+    "productName": "IPHONE 13 PRO"
+  },
+  {
+    "emailid": "testdata@testing.com",
+    "password": "Testdata@1234",
+    "productName": "ADIDAS ORIGINAL"
+  }
+]

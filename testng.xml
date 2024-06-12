@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="All Test Suite">
+
+    <listeners>
+          <listener class-name="org.example.TestComponents.Listeners"></listener>
+    </listeners>
+
+    <test  name="C:/Users/shashank.chavan/IdeaProjects/SeleniumFramework">
+        <classes>
+            <class name="org.example.TestScenarios.StandaloneCopyTest"/>
+            <class name="org.example.TestScenarios.ErrosValidationstest"/>
+
+
+        </classes>
+    </test>
+</suite>
